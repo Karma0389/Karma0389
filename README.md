@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karma0389
-- 👀 I’m interested in to code.
+- 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on mini projects to improve my skills.
 - 📫 How to reach me Discord: Karma #0389
